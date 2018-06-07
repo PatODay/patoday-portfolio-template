@@ -378,3 +378,10 @@ a:hover, a:focus, a:active {
   display: inline;
   padding: 0px 35px;
 }
+
+div#wrapperHeader div#header img {
+ width: 200px; /* the width of the logo image */
+ height:200px; /* the height of the logo image */
+ margin:0 auto;
+ border-radius: 25px;
+}
